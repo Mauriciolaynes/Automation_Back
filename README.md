@@ -23,9 +23,10 @@ Garantizar el correcto funcionamiento de los endpoints de la API de Usuarios, cu
 
 
 ## 📝 Escenarios Implementados
-- ✅ CRUD Atómico (@full_crud): Escenarios independientes para Crear, Leer, Actualizar y Eliminar
+- ✅ CRUD Atómico (@Flujo): Escenarios independientes para Crear, Leer, Actualizar y Eliminar
 - ✅ Registro Dinámico (@smoke): Uso de Scenario Outlines para validar múltiples perfiles de usuario
 - ❌ Casos Negativos (@negative): Validación de email duplicado, ID inexistente y campos obligatorios
+- ✅ Regresion de todos los test (@regression)
 
 ## 🚀 Ejecución
 1. Abrir terminal en la raíz del proyecto.
